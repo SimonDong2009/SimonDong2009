@@ -1,10 +1,10 @@
 on:
   workflow_dispatch:
-    inputs:
-      input:
-        description: "Test"
-        required: false
-        default: "World"
+#    inputs:
+#      input:
+#        description: "Test"
+#        required: false
+#        default: "World"
 
 jobs:
   job1:
